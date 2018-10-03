@@ -1,0 +1,28 @@
+Array: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Min: 0
+Max: 29
+2MID: 14
+
+
+Min: 0
+Max: 14
+2MID: 7
+
+
+Min: 0
+Max: 7
+2MID: 3
+
+
+Min: 0
+Max: 3
+2MID: 1
+
+
+Min: 0
+Max: 1
+2MID: 0
+The index of the first 0 is 1
+The array has 29 elements

@@ -4,8 +4,8 @@
 
 # This method finds the first 0 inside the given array. It checks the midpoint of the array for 0 or 1. If it is a zero,
 # it will then do the same check on the left half of the array. If it is a one, it will check the midpoint of the right
-# half. Once the starting index of the array is equal to the middle index of the array, that index is the location of
-# the first 0.
+# half. Once the starting or ending index of the array is equal to the middle index of the array, that index is the
+# location of the first 0.
 def findSymbol(arr, min, max):
     global index
     # This print shows you the array being narrowed down

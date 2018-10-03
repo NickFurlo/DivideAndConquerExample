@@ -1,0 +1,33 @@
+Array: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Min: 0
+Max: 39
+2MID: 19
+
+
+Min: 0
+Max: 19
+2MID: 9
+
+
+Min: 9
+Max: 19
+2MID: 14
+
+
+Min: 9
+Max: 14
+2MID: 11
+
+
+Min: 9
+Max: 11
+2MID: 10
+
+
+Min: 10
+Max: 11
+2MID: 10
+The index of the first 0 is 11
+The array has 39 elements
