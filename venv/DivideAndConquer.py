@@ -30,10 +30,9 @@ def findSymbol(arr, min, max):
     else:
         findSymbol(arr, mid, max)
 
-
+#Initalize variables and array. 
 ar = [1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, ]
 n = len(ar) - 1
-
 index = -1
 print("Array: " + str(ar))
 findSymbol(ar, 0, n)
