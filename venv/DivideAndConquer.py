@@ -14,7 +14,7 @@ def findSymbol(arr, min, max):
     # These statments calculate a midpoint for the subarray
     temp = int((max - min) / 2)
     mid = min + temp
-    print("2MID: " + str(mid))
+    print("MID: " + str(mid))
 
     # Check to see if index has been found
     if (min == mid) or (max == mid):
