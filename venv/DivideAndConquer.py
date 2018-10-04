@@ -17,7 +17,7 @@ def findSymbol(arr, min, max):
     print("MID: " + str(mid))
 
     # Check to see if index has been found
-    if (min == mid) or (max == mid):
+    if (min == mid) or (max == mid) or (min == max):
         index = max
         return
 
@@ -30,7 +30,7 @@ def findSymbol(arr, min, max):
     else:
         findSymbol(arr, mid, max)
 
-#Initalize variables and array. 
+#Initalize variables and array.
 ar = [1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, ]
 n = len(ar) - 1
 index = -1
